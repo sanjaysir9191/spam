@@ -4,4 +4,4 @@ This is a ML deployment project where I am deploying my Email Spam Classifier mo
 
 Live Production UR: https://example-deployment-6cut.onrender.com
 
-Workshop: https://www.youtube.com/watch?v=rgr_aCg-338
+
